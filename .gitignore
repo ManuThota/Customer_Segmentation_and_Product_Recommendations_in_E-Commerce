@@ -39,7 +39,7 @@ ENV/
 data/raw/
 data/processed/
 data/sample/
-models/
+
 
 # Outputs
 # Ignore all files inside outputs folders
