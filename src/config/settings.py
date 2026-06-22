@@ -5,7 +5,7 @@ SRC_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PROJECT_ROOT = os.path.dirname(SRC_DIR)
 
 # Data paths
-RAW_DATA_PATH = os.path.join(PROJECT_ROOT, "data", "raw", "OnlineRetail.csv")
+RAW_DATA_PATH = os.path.join(PROJECT_ROOT, "data", "raw", "online_retail.csv")
 CLEANED_DATA_PATH = os.path.join(PROJECT_ROOT, "data", "processed", "cleaned_online_retail.csv")
 RFM_DATA_PATH = os.path.join(PROJECT_ROOT, "data", "processed", "rfm_dataset.csv")
 CUSTOMER_SEGMENTS_PATH = os.path.join(PROJECT_ROOT, "data", "processed", "customer_segments.csv")
