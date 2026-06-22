@@ -42,7 +42,6 @@ data/sample/
 models/
 
 # Outputs
-outputs/
 outputs/plots/
 outputs/reports/
 
