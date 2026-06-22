@@ -36,5 +36,7 @@ ENV/
 .ipynb_checkpoints
 
 # Large Data files (optional, but keep for now if needed, or exclude raw data)
-# data/raw/
-# data/processed/
+data/raw/
+data/processed/
+data/sample/
+models/
