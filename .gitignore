@@ -55,8 +55,8 @@ models/*
 !models/.gitkeep
 
 # Notebook generated files
-notebooks/*.csv
-notebooks/*.pkl
-notebooks/*.joblib
-notebooks/*.xlsx
-notebooks/*.pdf
+notebook/*.csv
+notebook/*.pkl
+notebook/*.joblib
+notebook/*.xlsx
+notebook/*.pdf
