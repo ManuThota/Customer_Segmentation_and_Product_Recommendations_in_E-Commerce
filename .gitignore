@@ -42,6 +42,15 @@ data/sample/
 models/
 
 # Outputs
-outputs/plots/
-outputs/reports/
+# Ignore all files inside outputs folders
+outputs/plots/*
+outputs/reports/*
+
+# models
+models/*
+
+# But keep .gitkeep files
+!outputs/plots/.gitkeep
+!outputs/reports/.gitkeep
+!models/.gitkeep
 
