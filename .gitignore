@@ -40,3 +40,9 @@ data/raw/
 data/processed/
 data/sample/
 models/
+
+# Outputs
+outputs/
+outputs/plots/
+outputs/reports/
+
